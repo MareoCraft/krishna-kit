@@ -1,0 +1,29 @@
+{
+  "name": "krishna-kit",
+  "version": "1.2.03",
+  "description": "Professional project starter CLI",
+  "bin": {
+    "krishna-kit": "./bin/index.js"
+  },
+  "files": [
+    "bin",
+    "template"
+  ],
+  "keywords": [
+    "cli",
+    "starter",
+    "template",
+    "project",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Krishna G. B.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^8.5.2"
+  }
+}
